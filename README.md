@@ -1,3 +1,5 @@
+![Screenshot_1717029724](https://github.com/26081yogesh/Learning_RN_FirstApp/assets/108536566/4bed9925-d59d-4f50-82d2-b8e5c60b804a)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
